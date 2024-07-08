@@ -16,12 +16,10 @@
 - 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
 - 💬 Don't ask me about my experience because I have none.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 I'm Training in ALX as Software Engineer and improving my Soft Skills 
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/youssef-ramzy-8b2511249/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ramzy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100090981573696" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ramzy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.link/r5v4m2" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ramzy-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPP&logoColor=563D7C)&nbsp;
