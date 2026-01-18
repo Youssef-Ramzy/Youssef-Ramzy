@@ -38,8 +38,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ramzy&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ramzy&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Ramzy&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ramzy&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
@@ -50,7 +50,7 @@
 <a href="mailto:youssef.ramzy.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-youssef.ramzy.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/youssef-ramzy-8b2511249/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ramzy-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/youssef-ramzy0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ramzy0?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
