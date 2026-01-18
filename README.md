@@ -37,20 +37,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Ramzy&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ramzy&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
 ### 📬 Connect with Me
 
 <p align="left">
-<a href="mailto:youssef.ramzy.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-youssef.ramzy.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/youssef-ramzy0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ramzy0?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:youssef.ramzy.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-ramzy0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
